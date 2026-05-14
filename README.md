@@ -108,9 +108,7 @@ print(y_prednew)
 
 ## Output:
 
-<img width="749" height="160" alt="image" src="https://github.com/user-attachments/assets/8144cca4-7614-4db4-b7b1-d8547481ff04" />
-<img width="377" height="50" alt="image" src="https://github.com/user-attachments/assets/cb90ab33-e791-459a-b9f0-c298defbe136" />
-
+<img width="922" height="412" alt="image" src="https://github.com/user-attachments/assets/278d03c4-c591-415a-a9f7-485dd61824da" />
 
 
 
