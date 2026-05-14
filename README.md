@@ -107,11 +107,7 @@ print(y_prednew)
 ```
 
 ## Output:
-<img width="1236" height="449" alt="image" src="https://github.com/user-attachments/assets/67a1796a-c095-4ad4-968a-24114aae5589" />
-<img width="755" height="323" alt="image" src="https://github.com/user-attachments/assets/27268f99-fdd5-4753-aee2-b112ae1b9884" />
-<img width="1191" height="450" alt="image" src="https://github.com/user-attachments/assets/ffe02b01-de97-4246-9eaf-9b4a5d10f8c6" />
-<img width="725" height="220" alt="image" src="https://github.com/user-attachments/assets/82d0f6aa-3ce1-4a30-a387-701d520b6404" />
-<img width="314" height="36" alt="image" src="https://github.com/user-attachments/assets/6da9c9a7-7648-4e5c-8890-221ab2b46d99" />
+
 <img width="749" height="160" alt="image" src="https://github.com/user-attachments/assets/8144cca4-7614-4db4-b7b1-d8547481ff04" />
 <img width="377" height="50" alt="image" src="https://github.com/user-attachments/assets/cb90ab33-e791-459a-b9f0-c298defbe136" />
 
